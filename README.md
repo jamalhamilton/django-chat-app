@@ -32,7 +32,7 @@ Start the server
 Go to the backend directory
 
 ```bash
-  cd ../backend
+  cd ../backend-service
 ```
 
 Install libraries
